@@ -1,1 +1,2 @@
 # BankingManagementSystem
+This is a web application that simulates a banking management system. Users have the ability to create an account, log in, view their checking and savings accounts, make deposits, withdrawals, purchases, and transfers, and view their account information. This system was built using HTML and CSS for the frontend, Flask and Python for the backend, and PostgreSQL for the database.
