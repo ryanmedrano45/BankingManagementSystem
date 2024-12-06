@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Sets the page title-->
+    <title>Main Page</title>
+    <!--Links the css file-->
+    <link rel="stylesheet" href="/static/css/main.css">
+</head>
+<body>
+    <!--Creates the header and subtitle-->
+    <div class="title-container">
+        <h1>Banking Home</h1>
+        <p class="subtitle">Choose an option</p>
+    </div>
+
+    <!--Displays the user options in a box-->
+    <div class="options-container">
+        <form action="/account_info" method="GET">
+            <button type="submit" class="btn-option">Account Info</button>
+        </form>
+        <form action="/checking_account" method="GET">
+            <button type="submit" class="btn-option">Checking Account</button>
+        </form>
+        <form action="/savings_account" method="GET">
+            <button type="submit" class="btn-option">Savings Account</button>
+        </form>
+        <form action="/logout" method="POST">
+            <button type="submit" class="btn-logout">Log Out</button>
+        </form>
+    </div>
+</body>
+</html>

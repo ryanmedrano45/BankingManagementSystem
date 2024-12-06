@@ -1,0 +1,101 @@
+/* Body */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fdfdfd;
+    color: #090909;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Header Section */
+.title-container {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+/* Main Header */
+h1 {
+    font-size: 2rem;
+    color: #090909;
+    margin: 0;
+}
+
+/* Subtitle */
+.subtitle {
+    font-size: 1rem;
+    color: #666;
+    margin-top: 10px;
+}
+
+/* Deposit Box */
+.form-container {
+    background-color: #ffffff;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    padding: 20px 30px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+    text-align: center;
+    margin-bottom: 20px; 
+}
+
+/* Deposit Form */
+.deposit-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+/* Deposit Label */
+label {
+    font-size: 1rem;
+    color: #090909;
+    text-align: left;
+    width: 100%;
+}
+
+/* Deposit Input */
+input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+/* Deposit Input Focus */
+input:focus {
+    outline: none;
+    border-color: #007BFF;
+    box-shadow: 0 0 5px rgba(0, 123, 255, 0.5);
+}
+
+/* Submit Button */
+button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    width: 100%; 
+}
+
+/* Submit Button Hover */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Back Button */
+.btn-back {
+    margin-top: 20px; 
+}

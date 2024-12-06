@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Sets the page title-->
+    <title>Savings Account</title>
+    <!--Links the css file-->
+    <link rel="stylesheet" href="/static/css/savings_account.css">
+</head>
+<body>
+    <!--Creates the header and subtitle-->
+    <div class="title-container">
+        <h1>Savings Account</h1>
+        <p class="subtitle">Manage your savings account</p>
+    </div>
+
+    <!--Displays the account balance in a box-->
+    <div class="balance-container">
+        <p><strong>Balance:</strong> ${{ account.sa_totalBalance | round(2) }}</p>
+    </div>
+
+    <!--Displays the user options in a box-->
+    <div class="options-container">
+        <form action="/withdraw/savings" method="GET">
+            <button type="submit" class="btn-option">Withdraw</button>
+        </form>
+        <form action="/deposit/savings" method="GET">
+            <button type="submit" class="btn-option">Deposit</button>
+        </form>
+        <form action="/transfer/savings" method="GET">
+            <button type="submit" class="btn-option">Transfer</button>
+        </form>
+    </div>
+
+    <!--Button to return to the main page-->
+    <form action="/main" method="GET">
+        <button type="submit" class="btn-back">Return to Main Page</button>
+    </form>
+</body>
+</html>

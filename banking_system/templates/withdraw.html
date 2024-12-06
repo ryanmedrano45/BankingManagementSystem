@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Sets the page title-->
+    <title>Withdraw</title>
+    <!--Links the css file-->
+    <link rel="stylesheet" href="/static/css/withdraw.css">
+</head>
+<body>
+    <!--Creates the header and subtitle-->
+    <div class="title-container">
+        <h1>Withdraw from {{ account_type.capitalize() }} Account</h1>
+        <p class="subtitle">Enter the amount you want to withdraw</p>
+    </div>
+
+    <!--Displays the form in a box-->
+    <div class="form-container">
+        <form method="POST" class="withdraw-form">
+            <label for="amount">Amount:</label>
+            <input type="number" step="0.01" id="amount" name="amount" placeholder="Enter amount" required>
+            <button type="submit" class="btn-submit">Submit</button>
+        </form>
+    </div>
+
+    <!--Button to return to the account page-->
+    <form action="/{{ account_type }}_account" method="GET">
+        <button type="submit" class="btn-back">Return to Account</button>
+    </form>
+</body>
+</html>

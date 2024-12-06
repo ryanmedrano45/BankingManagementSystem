@@ -1,0 +1,297 @@
+p_transactionID,p_seller,p_itemPurchased,p_userID,p_accountID
+1,Daniel-Vargas,campaign,100,1
+2,Strickland-Myers,bring,100,1
+3,"Doyle, Mueller and Hayden",their,100,1
+4,"Williams, Lopez and Henderson",police,100,1
+5,Gardner Group,stuff,100,1
+6,Pierce Inc,goal,99,2
+7,"Jones, Dunn and Martin",paper,99,2
+8,"Tanner, Erickson and Hampton",and,99,2
+9,"Miller, Hughes and Crawford",over,99,2
+10,Farmer LLC,bar,98,3
+11,Crawford and Sons,would,98,3
+12,Sherman-Reid,garden,98,3
+13,Morrison PLC,evidence,98,3
+14,"Wilcox, Thomas and Graham",report,98,3
+15,"Wiley, Davidson and Cook",management,97,4
+16,"Blackburn, Bruce and Scott",by,97,4
+17,"Edwards, Olsen and Hernandez",national,97,4
+18,Prince Ltd,first,97,4
+19,"Brock, May and Martinez",still,97,4
+20,Guerra-Montoya,idea,96,5
+21,Rogers Ltd,left,96,5
+22,Brown-Thompson,note,96,5
+23,"Lawson, Hensley and Jackson",two,96,5
+24,Daniels-Escobar,particular,96,5
+25,"Robinson, Thornton and Turner",election,95,6
+26,Douglas Inc,writer,95,6
+27,Norman-Jackson,reality,94,7
+28,"Hernandez, Kemp and Collins",yeah,94,7
+29,"Murphy, Lopez and Riley",cut,94,7
+30,Rojas Group,treatment,94,7
+31,Williams and Sons,better,94,7
+32,Garcia Inc,else,93,8
+33,"Davis, Hall and White",age,93,8
+34,Schultz-Baird,son,93,8
+35,Anderson-Turner,office,93,8
+36,Walker and Sons,so,93,8
+37,"Rice, Bush and Cunningham",raise,92,9
+38,Sims Group,station,91,10
+39,Walker-Johnson,gas,91,10
+40,Morse-Davis,responsibility,91,10
+41,Walter-Calhoun,herself,91,10
+42,Andrade Group,rate,91,10
+43,"Austin, Spencer and Sosa",section,90,11
+44,Cooper-Hughes,must,89,12
+45,"Jacobson, Gillespie and Lopez",difficult,88,13
+46,"Davis, Bell and Swanson",another,88,13
+47,Silva Group,organization,88,13
+48,Bird-Jordan,media,88,13
+49,Perry-Fernandez,tree,88,13
+50,Clark and Sons,become,87,14
+51,"Horn, Padilla and Carr",be,86,15
+52,Riley-Graham,cold,86,15
+53,Ho PLC,reveal,85,16
+54,Sullivan-Sellers,work,84,17
+55,Miller-Leblanc,camera,84,17
+56,"Smith, Juarez and Long",morning,84,17
+57,Bowers PLC,training,84,17
+58,"Chan, Morales and Thomas",Democrat,83,18
+59,Lynch Ltd,news,82,19
+60,Carpenter-Foley,task,81,20
+61,"Wells, Ball and Gill",bag,80,21
+62,Becker Ltd,join,79,22
+63,"Cervantes, Owen and Webb",customer,79,22
+64,"Roberts, Edwards and Johnson",though,79,22
+65,"Austin, Reyes and Beltran",forget,79,22
+66,Lopez-Arroyo,present,78,23
+67,Hernandez-Berry,not,78,23
+68,Bryan-Camacho,thought,78,23
+69,Hughes LLC,before,78,23
+70,Herrera PLC,whose,78,23
+71,Johnson Inc,information,77,24
+72,Moon-Soto,measure,77,24
+73,Hanson-Torres,feeling,77,24
+74,Jones and Sons,nearly,77,24
+75,Guerrero-Young,stock,76,25
+76,"Richards, Donaldson and Zavala",deal,76,25
+77,"Arnold, Hill and Lee",during,76,25
+78,Vasquez Inc,response,76,25
+79,"Schmidt, Miller and Martinez",of,75,26
+80,Murphy PLC,look,75,26
+81,Sanchez Group,alone,74,27
+82,Harris Group,available,74,27
+83,Reeves-Harris,area,74,27
+84,Williams-Silva,cup,74,27
+85,Bautista-Perez,community,74,27
+86,Brown LLC,so,73,28
+87,Clark PLC,feeling,72,29
+88,Holmes and Sons,significant,72,29
+89,Cruz-Williams,amount,72,29
+90,"Benson, Becker and Weeks",indeed,71,30
+91,Lopez-Newman,around,71,30
+92,Camacho Inc,positive,71,30
+93,Medina-Barnes,actually,71,30
+94,Lopez-Wilson,wall,70,31
+95,"Lopez, Johnson and Ayala",state,70,31
+96,"Daugherty, Ruiz and Webb",throw,70,31
+97,Baldwin-Schultz,physical,70,31
+98,Williams Inc,year,70,31
+99,Walker Group,work,69,32
+100,Smith Ltd,quickly,69,32
+101,Banks-Robinson,cup,69,32
+102,Anderson-Elliott,western,68,33
+103,"Bennett, Lee and Wallace",cost,68,33
+104,Lowe-Liu,program,68,33
+105,"Robinson, Ramirez and Ochoa",figure,68,33
+106,Brooks-Espinoza,argue,67,34
+107,Green-Powers,commercial,67,34
+108,Smith Ltd,option,67,34
+109,Thompson Ltd,morning,66,35
+110,Hodges PLC,current,66,35
+111,Moreno LLC,two,66,35
+112,"Cross, Serrano and Thompson",officer,66,35
+113,Brooks-Klein,teacher,65,36
+114,"Yoder, Molina and Little",management,65,36
+115,Davis Group,identify,65,36
+116,"Bailey, Whitney and Sanchez",into,65,36
+117,Mullins-Riley,far,65,36
+118,Thomas-Robertson,claim,64,37
+119,"Robinson, Morse and Johnson",old,64,37
+120,Davis Inc,part,63,38
+121,Johnson-West,tree,63,38
+122,Garcia-Wright,citizen,62,39
+123,Thomas Inc,eat,62,39
+124,Rogers PLC,very,62,39
+125,Boone LLC,anyone,61,40
+126,Rodriguez Ltd,forget,61,40
+127,Rodgers LLC,all,61,40
+128,Thompson-Harrington,open,61,40
+129,Castillo-Rollins,surface,61,40
+130,Nelson LLC,million,60,41
+131,Smith-Griffin,per,60,41
+132,Martin PLC,responsibility,60,41
+133,Howard Inc,threat,60,41
+134,Reynolds and Sons,ball,60,41
+135,Hahn-Thornton,large,59,42
+136,Lee Ltd,employee,59,42
+137,Brewer Ltd,different,58,43
+138,"Brown, Willis and Solis",station,58,43
+139,Bowman Inc,special,58,43
+140,Matthews PLC,study,58,43
+141,Garrison PLC,reach,57,44
+142,"Smith, Chandler and Colon",determine,57,44
+143,"Johnson, Rodriguez and Parker",may,57,44
+144,"Pena, Marshall and Johnson",role,56,45
+145,Livingston-Randall,south,56,45
+146,Carpenter Group,medical,56,45
+147,"Beasley, Wilkerson and Brown",down,55,46
+148,"Black, Villarreal and Mckinney",material,55,46
+149,Johns-Blake,life,54,47
+150,"Morgan, Powers and Miller",and,53,48
+151,Sloan PLC,bill,53,48
+152,Flores LLC,clear,52,49
+153,"Reid, Bryant and Diaz",social,52,49
+154,Bridges-Donovan,between,51,50
+155,Solomon-Soto,more,51,50
+156,"Patterson, Carter and Nichols",answer,51,50
+157,"Hunt, Jackson and Cook",reflect,51,50
+158,"Martin, Nelson and Franco",which,50,51
+159,Haynes-Webb,heavy,50,51
+160,Morrison Ltd,recognize,50,51
+161,Cobb-Rose,own,50,51
+162,Baker PLC,hand,50,51
+163,Lopez and Sons,attention,49,52
+164,"Barry, Thomas and Davis",design,49,52
+165,Cook Inc,result,49,52
+166,"Turner, Vasquez and Mcdonald",agree,49,52
+167,"Wilcox, Gill and Richardson",note,49,52
+168,"Howard, Arnold and Moore",hundred,48,53
+169,"Campbell, Simmons and Olson",student,48,53
+170,Davis-Singh,rather,48,53
+171,Phillips Inc,wonder,47,54
+172,Jacobson-Hawkins,anything,47,54
+173,"Johnson, Williamson and James",your,47,54
+174,Lewis-Bean,reflect,47,54
+175,Sanchez and Sons,sing,46,55
+176,"Parker, Gonzales and Carpenter",ok,46,55
+177,"Garcia, Brown and Smith",despite,45,56
+178,Davenport PLC,worker,45,56
+179,"Haynes, Ward and Anderson",of,45,56
+180,Simmons LLC,hand,45,56
+181,Cole Inc,beat,44,57
+182,Moss-Garcia,these,44,57
+183,Reed Ltd,appear,44,57
+184,"Garcia, Price and Taylor",read,43,58
+185,"Manning, Gonzales and Merritt",economy,42,59
+186,Gilbert-Chapman,good,42,59
+187,Edwards-Peterson,any,42,59
+188,"Martinez, Perez and Shepherd",street,42,59
+189,"Diaz, Burton and Richardson",yeah,42,59
+190,Martin-Drake,control,41,60
+191,"Parker, Brown and Summers",family,40,61
+192,Bell-Barry,high,40,61
+193,Nguyen-Roy,listen,40,61
+194,"Mckee, Mullen and Diaz",movie,40,61
+195,"Reyes, Singh and Rosales",include,39,62
+196,Howard-Long,because,38,63
+197,Woods Ltd,health,38,63
+198,Reid and Sons,west,38,63
+199,Brown-Edwards,that,38,63
+200,"Adkins, Key and Vargas",sign,37,64
+201,Sanders-Blanchard,cold,37,64
+202,Cole-Jackson,project,37,64
+203,"Ferrell, Barber and Wilson",view,36,65
+204,"Smith, Gonzalez and Williams",my,36,65
+205,Hoffman Ltd,fill,36,65
+206,Greene Inc,who,36,65
+207,Mccormick-Crawford,decision,35,66
+208,"Henderson, Spence and Smith",tell,34,67
+209,Watkins Ltd,more,34,67
+210,Fuller-Harper,check,34,67
+211,Mcdonald PLC,ok,33,68
+212,Cook-Foster,property,33,68
+213,Koch-Hall,for,33,68
+214,Andersen-Nguyen,sell,32,69
+215,"Miller, Middleton and Aguirre",teach,31,70
+216,Walker Inc,game,31,70
+217,Phelps-Hudson,visit,31,70
+218,Villegas-Koch,minute,31,70
+219,Collins and Sons,month,30,71
+220,Bautista Ltd,job,30,71
+221,"Mckay, Jarvis and Edwards",national,29,72
+222,"Ware, Aguirre and Hall",perform,29,72
+223,"Lopez, Williams and Carpenter",soon,29,72
+224,Kelley-Allen,pattern,28,73
+225,"Thomas, Rodriguez and Baker",why,28,73
+226,Hernandez LLC,smile,27,74
+227,"Conner, Newton and Kelly",alone,27,74
+228,Hernandez Group,grow,27,74
+229,Bailey-Andersen,final,27,74
+230,"Mcdaniel, Vargas and Evans",case,26,75
+231,Henderson-Anderson,security,26,75
+232,Reynolds LLC,area,25,76
+233,Bender-Wu,east,25,76
+234,Hanson Ltd,opportunity,25,76
+235,"Allison, Riley and Williams",open,25,76
+236,Moore-Berry,back,24,77
+237,Smith LLC,wife,24,77
+238,Wagner-Rodriguez,expert,23,78
+239,Hall and Sons,mean,22,79
+240,Brown-Wade,take,21,80
+241,Smith and Sons,bill,21,80
+242,Cabrera PLC,weight,21,80
+243,Warren PLC,newspaper,21,80
+244,Dalton-Jones,day,21,80
+245,Bennett-Oneal,administration,20,81
+246,Williams-Berry,at,20,81
+247,Donaldson-Chan,very,20,81
+248,Leach-Arnold,husband,20,81
+249,"Gray, Mills and Wilson",exist,19,82
+250,Hernandez-Miller,young,18,83
+251,"Martinez, Gutierrez and Clarke",all,18,83
+252,"Parks, Kennedy and Glenn",hear,18,83
+253,Moore and Sons,oil,18,83
+254,Bruce LLC,it,17,84
+255,Robinson and Sons,put,17,84
+256,Martin Group,close,16,85
+257,"Jennings, Jordan and Walker",over,16,85
+258,Tran-Barry,produce,16,85
+259,Martinez-Huynh,item,16,85
+260,Brooks and Sons,senior,16,85
+261,"Carson, Khan and Price",run,15,86
+262,Kelly LLC,where,15,86
+263,Yates-Yu,herself,15,86
+264,"Miller, Perez and Pope",draw,14,87
+265,"Carpenter, Clay and Williams",amount,14,87
+266,Duffy Ltd,upon,14,87
+267,"Rivera, Cuevas and Hines",capital,14,87
+268,Booth PLC,high,13,88
+269,Patel-White,forward,13,88
+270,Morrison LLC,officer,12,89
+271,"Huffman, Scott and Morales",word,12,89
+272,"King, Gonzalez and Ward",focus,12,89
+273,Smith-Scott,product,12,89
+274,"Frey, Weaver and Garcia",marriage,11,90
+275,"Meadows, Whitehead and Barber",boy,10,91
+276,Harris-Mccarthy,increase,10,91
+277,"Gonzalez, Holmes and Rivera",value,9,92
+278,"Wolfe, Hernandez and Hamilton",allow,9,92
+279,Anderson-Patterson,job,9,92
+280,Rice PLC,law,8,93
+281,Stout Group,project,8,93
+282,Payne PLC,especially,7,94
+283,Gates-Cain,value,6,95
+284,Mason-Payne,keep,5,96
+285,"Barber, Smith and Johnson",see,5,96
+286,Li Inc,trade,4,97
+287,Jones LLC,great,4,97
+288,"Walker, Jones and Greer",book,4,97
+289,"Smith, Strickland and Wells",summer,3,98
+290,Bryant and Sons,leader,3,98
+291,Stark-Ball,dark,3,98
+292,Nichols-Morgan,property,3,98
+293,Skinner-Gonzales,them,3,98
+294,Barber Group,important,2,99
+295,Miller and Sons,base,1,100
+296,TeaCo,Tea,102,102

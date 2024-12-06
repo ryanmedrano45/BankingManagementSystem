@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Sets the page title-->
+    <title>Login</title>
+    <!--Links the css file-->
+    <link rel="stylesheet" href="/static/css/login.css">
+</head>
+<body>
+    <!--Creates the header and subtitle-->
+    <div class="title-container">
+        <h1>Banking Management System</h1>
+        <p class="subtitle">Manage your money easily and securely</p>
+    </div>
+
+    <!--Displays the options in a box-->
+    <div class="login-container">
+        <div class="form-box">
+            <!--Displays an error if user enters incorrect credentials-->
+            {% if error %}
+                <p class="error-message">{{ error }}</p>
+            {% endif %}
+
+            <!--Displays the log in form-->
+            <form method="POST" class="login-form">
+                <label for="first_name">First Name:</label>
+                <input type="text" id="first_name" name="first_name" placeholder="Enter your first name" required>
+
+                <label for="last_name">Last Name:</label>
+                <input type="text" id="last_name" name="last_name" placeholder="Enter your last name" required>
+
+                <label for="password">Password:</label>
+                <input type="password" id="password" name="password" placeholder="Enter your password" required>
+
+                <button type="submit" class="btn-login">Login</button>
+            </form>
+
+            <!--Button to create an account-->
+            <div class="create-account-container">
+                <p>Don't have an account?</p>
+                <form action="/create_account" method="GET">
+                    <button type="submit" class="btn-create-account">Create an Account</button>
+                </form>
+            </div>            
+        </div>
+    </div>
+</body>
+</html>

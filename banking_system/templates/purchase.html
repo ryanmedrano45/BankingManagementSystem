@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Sets the page title-->
+    <title>Purchase</title>
+    <!--Links the css file-->
+    <link rel="stylesheet" href="/static/css/purchase.css">
+</head>
+<body>
+    <!--Creates the header and subtitle-->
+    <div class="title-container">
+        <h1>Make a Purchase from {{ account_type.capitalize() }} Account</h1>
+        <p class="subtitle">Fill in the details of your purchase below</p>
+    </div>
+
+    <!--Displays the form in a box-->
+    <div class="form-container">
+        <form method="POST" class="purchase-form">
+            <label for="item">Item:</label>
+            <input type="text" id="item" name="item" placeholder="Enter item name" required>
+
+            <label for="seller">Seller:</label>
+            <input type="text" id="seller" name="seller" placeholder="Enter seller name" required>
+
+            <label for="amount">Amount:</label>
+            <input type="number" step="0.01" id="amount" name="amount" placeholder="Enter amount" required>
+
+            <button type="submit" class="btn-submit">Submit</button>
+        </form>
+    </div>
+
+    <!--Button to return to the account page-->
+    <form action="/{{ account_type }}_account" method="GET">
+        <button type="submit" class="btn-back">Return to Account</button>
+    </form>
+</body>
+</html>
